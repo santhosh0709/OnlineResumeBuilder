@@ -1,0 +1,87 @@
+h1 {
+    /* color: purple; */
+    margin-top: 60px;
+}
+
+
+h3 {
+    /* color: yellow; */
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-top: 15px;
+}
+
+.headerResume {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+    /* color:aliceblue */
+}
+
+.contentHeader {
+    /* color: aqua; */
+    width: 80%;
+}
+
+.h1Name {
+    /* color: orange; */
+    text-transform: uppercase;
+}
+
+.professionalResume {
+    display: flex;
+    flex-direction: column;
+    margin-left: 44px;
+    margin-right: 44px;
+}
+
+.dividerRight {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.template{
+    /* margin-top: 500px; */
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-width: 15px;
+    padding: 80px 0px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    background: transparent;
+    width: 100%;
+    border: none;
+    border-top: solid 1px #aaa;
+}
+
+.tempdiv {
+    /* margin-left: 150px; */
+    /* margin: 0px 150px; */
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;min-width: 650px;
+
+}
+
+.pagemarg{
+    margin: auto;
+    width: 85%;
+    margin-top: 50px;
+}
+
+.elemargin{
+    margin: 15px;
+}
